@@ -11,7 +11,7 @@ use CreationalDesignPatterns\Factory\Service\TransferServiceFactory;
 
 /**
  * Function which runs the app
- *
+ * 
  * @return void
  */
 function run()
